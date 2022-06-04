@@ -1,5 +1,5 @@
 
-# Project Title: Blockchain
+# Project Title: Blockchain Wallets
 
 The project is to write code that enables your customers to send cryptocurrency payments to fintech professionals. They should be able to:
 - Generate a new Ethereum account instance by using the mnemonic seed phrase provided by Ganache.
