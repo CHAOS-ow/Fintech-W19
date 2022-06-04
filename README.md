@@ -72,7 +72,12 @@ Streamlit application
 ![Streamlit application](s4.jpg)
 
 Transactions on Ganache
-![account](s1.png)![transactions](s2.jpg)![details](s3.jpg)
+Account
+![account](s1.png)
+Transactions
+![transactions](s2.jpg)
+Details of transaction
+![details](s3.jpg)
 
 ---
 
