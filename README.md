@@ -9,7 +9,9 @@ The project is to write code that enables your customers to send cryptocurrency 
 - Review the transaction hash code associated with the validated blockchain transaction.
 
 FILES:
+
 fintech_finder.py contains the code associated with the web interface of your application
+
 crypto_wallet.py contains the Ethereum transaction functions 
 
 ---
@@ -66,9 +68,11 @@ To run the program, run the Streamlit application in the terminal by using `stre
 
 Screenshots:
 
-![Streamlit application](s4.jpeg)
+Streamlit application
+![Streamlit application](s4.jpg)
 
-![account](s1.png)![transactions](s2.jpeg)![details](s3.jpeg)
+Transactions on Ganache
+![account](s1.png)![transactions](s2.jpg)![details](s3.jpg)
 
 ---
 
